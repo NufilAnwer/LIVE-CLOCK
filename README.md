@@ -6,7 +6,7 @@ A simple, responsive live digital clock built using **HTML**, **CSS**, and **Jav
 
 ## 📸 Preview
 
-(Screenshot 2025-06-26 231752.png)
+(https://github.com/NufilAnwer/LIVE-CLOCK/blob/main/Screenshot%202025-06-26%20231752.png)
 
 ---
 
