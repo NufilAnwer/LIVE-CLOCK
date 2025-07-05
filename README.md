@@ -6,7 +6,9 @@ A simple, responsive live digital clock built using **HTML**, **CSS**, and **Jav
 
 ## 📸 Preview
 
-(https://github.com/NufilAnwer/LIVE-CLOCK/blob/main/Screenshot%202025-06-26%20231752.png)
+![Password Generator Screenshot](Screenshot%202025-06-26%20231752.png)
+
+> *Screenshot from June 26, 2025*
 
 ---
 
